@@ -10,7 +10,7 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'Nest day4';
-  isadmin = 'false';
+  //data is hard coded into this file
   districts: any = [{
     id:1,
     title: 'Alappuzha',
